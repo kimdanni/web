@@ -1,6 +1,6 @@
-# Daeung's Web {
+# Daeung's Web
 
-* 공부한 내용 정리 * 
+*공부한 내용 정리* 
 
 > **Note**: Nomad Coders - JS Basics, zero cho, semtle 수업 수강 후 정리한 내용 
 
